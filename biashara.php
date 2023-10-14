@@ -25,10 +25,10 @@ initial-scale=1.0">
 <h2>Below are our top rated businesses this month</h2>
 
 <div class ="row">
-	<div class="column left" style="background-color:silver"><h1>RESTAURANTS</h1><p>These are the best bars/restaurants in Nairobi you should visit</p>
+	<div class="column left" style="background-color:silver"><h1>RESTAURANTS</h1><img src = "restaurant.jpg" style="height:100px;"><p>These are the best bars/restaurants in Nairobi you should visit</p>
 	</div>
-	<div class="column middle" style="background-color:silver"><h1>HOTELS</h1></div>
-	<div class="column right" style="background-color:silver"><h1>BEAUTY</h1>
+	<div class="column middle" style="background-color:silver"><h1>HOTELS</h1><img src = "hotel.jpg" style="height:100px;"></div>
+	<div class="column right" style="background-color:silver"><h1>BEAUTY</h1><img src = "salon.jpg" style="height:100px;">
 	<p>See beauty spa's and barber shops in Nairobi </p></div>
 	</div>
 	<?php
