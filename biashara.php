@@ -3,7 +3,7 @@
 content="width=device-width,
 initial-scale=1.0">
 	<?php
-	include "HTML/header.html";
+	include "header.html";
 	?>
 	<style>
 		<?php 
@@ -32,7 +32,7 @@ initial-scale=1.0">
 	<p>See beauty spa's and barber shops in Nairobi </p></div>
 	</div>
 	<?php
-	include "HTML/footer.html";
+	include "footer.html";
 	?>
 	</body>
 	
