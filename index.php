@@ -4,26 +4,26 @@
 </head>
 <body>
 	<?php 
-	include "HTML/header.html"
+	include "header.html"
 	?>
 <meta name="viewport"
 content="width=device-width,
 initial-scale=1.0" >
 <div class= "col-4" style = "align-content:center; border:0px solid black; background-color: white;font-family:serif;font-size:13px"> <h1 style="font-size:13px; color: black">Hello.. Welcome to our official website, <a href="index.php">Kanairo Cloud</a></h1>
 <div class="time" style="background: skyblue; border-radius:0.5em;font-weight:bold;">
-<script type = "text/JavaScript" src="JS/time.js">
+<script type = "text/JavaScript" src="time.js">
 		</script>
 		</div>
 	<p style= "font-size:13px"><b>We have a variety of services our members can benefit from:</b></p><br>
 		<a href="biashara.php"><div id ='biashara' style='background-color: silver; color: black;border:3px solid black;border-radius:0.5em;'>
 			<li><b>BIASHARA<i>(Blooming businesses)</i></b></li>
-			<img src ="biashara.jpg" style="height:95px; width:100%"><p>See our top rated business within Nairobi and their location.<p>
+			<img src ="hotel.jpg" style="height:95px; width:100%"><p>See our top rated business within Nairobi and their location.<p>
 			</div>
 			</a>
 			<br>
 				<a href="shop.php"><div id ='shop' style='background-color: silver; color: black;border:3px solid black;border-radius:0.5em;'>
 			<li><b>CHINA NDOGO 2nd HAND SHOP<i></i></b></li>
-			<img src ="shop.jpg" style="height:95px; width:100%"><p>Buy/sell used items</p>
+			<img src ="restaurant.jpg" style="height:95px; width:100%"><p>Buy/sell used items</p>
 			</div>
 			</a>
 			<br>
@@ -50,7 +50,7 @@ initial-scale=1.0" >
 <button type="button" on click="login.php" value="login" >login</button></center>
 <hr>
 	<?php
-include "HTML/footer.html";
+include "footer.html";
 ?>
 </div>
 </body>
